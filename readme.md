@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sushi 🍣 Restaurant Site 🍽
+# Sushi 🍣 Restaurant Landing Page 🍽
 
 </div>
 
@@ -71,3 +71,4 @@ HTML5 • CSS3 • JavaScript (ES6) • ScrollReveal.js
 Designed and Developed with 🧠 by **Muhammad Tanveer Abbas** 🌟
 
 </div>
+
